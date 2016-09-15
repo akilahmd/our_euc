@@ -8,3 +8,4 @@ Maintainer: merhawi<merastat@gmail.com>
 Description: oureuc takes two integers and returns out,thier greatest common divisor.
 License: Liu
 RoxygenNote: 5.0.1
+Suggests: testthat
