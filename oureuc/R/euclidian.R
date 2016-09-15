@@ -8,6 +8,7 @@
 #' @examples
 #' euclidian(10,35)
 #' @export
+
 euclidian<- function(x,y)
 {
    if((is.numeric(x)||is.numeric(x))&&(is.numeric(y)||is.numeric(y)))
