@@ -1,0 +1,11 @@
+Package: oureuc
+Type: Package
+Title: GDF
+Version: 1.0
+Date: 2016-09-15
+Author: merhawi<merastat@gmail.com>
+Maintainer: merhawi<merastat@gmail.com>
+Description: oureuc takes two integers and returns out,thier greatest common divisor.
+License: Liu
+RoxygenNote: 5.0.1
+Suggests: testthat
