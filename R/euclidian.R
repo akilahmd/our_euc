@@ -2,7 +2,8 @@
 #'
 #' \code{euclidian function} returns the greatest common factor present in its arguments.
 #' euclidian function takes two intergers or maybe numbers and it returns the greatest common factor of the
-#' @param ... Numeric,integers
+#' @param x is Numeric or integer of length 1
+#' @param y is Numeric or integer of length 1
 #' @return  if all the input values are integers or numeric it returns the greatest common divisor if the input is something else it returns error
 #'\url{https://en.wikipedia.org/wiki/Euclidean_algorithm} for more details.
 #' @examples
@@ -29,6 +30,3 @@ euclidian<- function(x,y)
   }
 return(gdf)
 }
-euclidian(123612, 13892347912)
-euclidian(1000, 100)
-euclidian(20.4,10)

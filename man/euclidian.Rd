@@ -7,7 +7,9 @@
 euclidian(x, y)
 }
 \arguments{
-\item{...}{Numeric,integers}
+\item{x}{is Numeric or integer of length 1}
+
+\item{y}{is Numeric or integer of length 1}
 }
 \value{
 if all the input values are integers or numeric it returns the greatest common divisor if the input is something else it returns error
